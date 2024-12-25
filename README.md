@@ -37,7 +37,9 @@ Grab a glass of water while the code processes your inputs. 😄
 
 After execution, a result folder will be created in the project directory, containing all face-swapped videos. For example:
 If there are 4 photos and 3 videos, the result folder will contain 12 face-swapped videos (4 photos × 3 videos).
+
 Example Output
+
 Input Video:
 video.mp4
 
